@@ -19,6 +19,9 @@ function App() {
         </a>
       </header>
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, porro!</p>
+        <hr/>
+        <p>1</p>
+        <p>2</p>
     </div>
   );
 }
